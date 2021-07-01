@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [0Miedo](https://0miedo.com.mx/"0Miedo")
+- 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/"0Miedo")
 - 🌱 I’m currently learning **Flutter** & **Adobe Xd**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
