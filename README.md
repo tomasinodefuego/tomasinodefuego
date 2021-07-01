@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I´m Cristóbal
 
 - 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/"0Miedo")
 - 🌱 I’m currently learning **Flutter** & **Adobe Xd**
