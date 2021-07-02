@@ -6,10 +6,18 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
 - ⚡ Fun fact: Real name **Cristóbal**
 
-![TomasinoDeFuego's GitHub stats](https://github-readme-stats-gray-three.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+![TomasinoDeFuego's GitHub stats](https://github-readme-stats-tomasinodefuego.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
 
 
-[![Top Langs](https://github-readme-stats-gray-three.vercel.app/api/top-langs/?username=tomasinodefuego)](https://github.com/tomasinodefuego/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs?username=tomasinodefuego)](https://github.com/tomasinodefuego/github-readme-stats)
+
+![TomasinoDeFuego's GitHub stats](https://github-readme-stats-gray-three.vercel.app/api/top-langs?username=tomasinodefuego&theme=nord)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs?username=tomasinodefuego)](https://github.com/tomasinodefuego/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego)](https://github.com/tomasinodefuego/github-readme-stats)
 
 <!--- 
 
