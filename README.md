@@ -6,9 +6,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
 - ⚡ Fun fact: Real name **Cristóbal**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasinodefuego&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasinoDeFuego&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasinodefuego&theme=tokyonight)
+![TomasinoDeFuego's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasinoDeFuego&show_icons=true&theme=nord)
+
 
 <!--- 
 ## 🧰 Languages and Tools:
