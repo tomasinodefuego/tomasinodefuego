@@ -6,8 +6,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
 - ⚡ Fun fact: Real name **Cristóbal**
 
+![TomasinoDeFuego's GitHub stats](https://github-readme-stats-gray-three.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+
+
+[![Top Langs](https://github-readme-stats-gray-three.vercel.app/api/top-langs/?username=tomasinodefuego)](https://github.com/tomasinodefuego/github-readme-stats)
 
 <!--- 
+
 ## 🧰 Languages and Tools:
 <p align="center">
   
