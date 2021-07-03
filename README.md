@@ -1,17 +1,34 @@
-### Hi 👋, I´m Tomás
+### Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Python" height="20" style="vertical-align:top; margin:4px">, I´m Tomás
+
 
 - 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/"0Miedo")
 - 🌱 I’m currently learning **Flutter** & **Adobe Xd**
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
 - ⚡ Fun fact: Real name **Cristóbal**
 
+🧰 **Languages and Tools:**  
+<p align="center">
+ 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+</p>
+
+📈 **My GitHub Stats**
+
 ![TomasinoDeFuego's GitHub stats](https://github-readme-stats-tomasinodefuego.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+
+👨‍💻 **My Top Languages**
 
 ![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&layout=compact&count_private=true&theme=nord)
 
 
 <!--- 
+
+[![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego&layout=compact&count_private=true&theme=nord)](https://github.com/tomasinodefuego/github-readme-stats)
 
 
 ## 🧰 Languages and Tools:
