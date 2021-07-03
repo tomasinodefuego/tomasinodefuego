@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Flutter** & **Adobe Xd**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
 - 💬 Ask me about anything, I am happy to help
+- 💼 Any freelance work? 
 
 <br>
 
@@ -21,12 +22,22 @@
 
 📈 **My GitHub Stats**
 
-![TomasinoDeFuego's GitHub stats](https://github-readme-stats-nu-six.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+
+
+
 
 <br>
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/cristobalrodbar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 <!--- 
+<p align="left"> <img src="https://github-readme-stats-nu-six.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
+
+![cristobalrodbar's GitHub stats](https://github-readme-stats-nu-six.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+
 - ⚡ Fun fact: Real name **Cristóbal**
 , I´m Tomás
 
