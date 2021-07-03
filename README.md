@@ -7,8 +7,11 @@
 - ⚡ Fun fact: Real name **Cristóbal**
 
 ![TomasinoDeFuego's GitHub stats](https://github-readme-stats-tomasinodefuego.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
-<!--- 
+
 ![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego&layout=compact&count_private=true&theme=nord)
+
+
+<!--- 
 
 
 ## 🧰 Languages and Tools:
