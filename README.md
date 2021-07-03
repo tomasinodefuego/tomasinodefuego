@@ -24,11 +24,11 @@
 ![TomasinoDeFuego's GitHub stats](https://github-readme-stats-nu-six.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord)
 
 <br>
-, I´m Tomás
+
 
 <!--- 
 - ⚡ Fun fact: Real name **Cristóbal**
-
+, I´m Tomás
 
 👨‍💻 **My Top Languages**
 
