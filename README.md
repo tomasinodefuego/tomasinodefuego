@@ -15,18 +15,20 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 🧰 **Languages and Tools:**  
 <p align="left">
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366104-d2421400-dc12-11eb-9ca6-65ccc44bd0ad.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366041-5051eb00-dc12-11eb-8876-dab7b95ca1d8.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124364689-c8b3ae80-dc08-11eb-9448-d5818cc36e35.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366037-3b755780-dc12-11eb-9c68-1c966c67977d.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366420-66ad7600-dc15-11eb-9c2b-564581082ee4.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366422-66ad7600-dc15-11eb-9d22-f5a5e89a9a5d.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
+<code><img alt="dart" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img alt="flutter" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img alt="vscode" height="32" src="https://user-images.githubusercontent.com/44181725/124366104-d2421400-dc12-11eb-9ca6-65ccc44bd0ad.png"></code>
+<code><img alt="java" height="32" src="https://user-images.githubusercontent.com/44181725/124366420-66ad7600-dc15-11eb-9c2b-564581082ee4.png"></code>
+<code><img alt="androidstudio" height="32" src="https://user-images.githubusercontent.com/44181725/124366642-da9c4e00-dc16-11eb-80d6-2e753deac9e5.png"></code>
+<code><img alt="firebase" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img alt="git" height="32" src="https://user-images.githubusercontent.com/44181725/124364689-c8b3ae80-dc08-11eb-9448-d5818cc36e35.png"></code>
+<code><img alt="xd" height="32" src="https://user-images.githubusercontent.com/44181725/124366037-3b755780-dc12-11eb-9c68-1c966c67977d.png"></code>
+<code><img alt="photoshop" height="32" src="https://user-images.githubusercontent.com/44181725/124366422-66ad7600-dc15-11eb-9d22-f5a5e89a9a5d.png"></code>
+<code><img alt="unity" height="32" src="https://user-images.githubusercontent.com/44181725/124366643-db34e480-dc16-11eb-8bbe-c5ce8f55aff2.png"></code>
+<code><img alt="maya" height="32" src="https://user-images.githubusercontent.com/44181725/124366644-db34e480-dc16-11eb-8c92-794195d04c10.png"></code>
+<code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
+<code><img alt="trello" height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
+<code><img alt="slack" height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
 </p>
 
 <br>
@@ -65,6 +67,9 @@ if(procrastination){
 </a>
 
 [![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego&layout=compact&count_private=true&theme=nord)](https://github.com/tomasinodefuego/github-readme-stats)
+
+<code><img alt="androidstudio" height="32" src="https://user-images.githubusercontent.com/44181725/124366041-5051eb00-dc12-11eb-8876-dab7b95ca1d8.png"></code>
+
 
 💬 Ask me about ...
 - 😄 Pronouns: ... 
