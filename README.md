@@ -26,12 +26,14 @@
 
 <br>
 
+
+<!--- 
+
+
 👨‍💻 **My Top Languages**
 
 ![Top Langs](https://github-readme-stats-nu-six.vercel.app/api/top-langs/?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&layout=compact&count_private=true&theme=nord)
 
-
-<!--- 
 
 <a href="https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/">
  <img alt="" width="20px" src="https://user-images.githubusercontent.com/44181725/124342649-f35f2200-db8a-11eb-9afa-d59be1b0ca9f.png"/>
