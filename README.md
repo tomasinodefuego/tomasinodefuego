@@ -22,13 +22,13 @@
 
 📈 **My GitHub Stats**
 
-![TomasinoDeFuego's GitHub stats](https://github-readme-stats-tomasinodefuego.vercel.app/api?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&show_icons=true&count_private=true&theme=nord)
+![TomasinoDeFuego's GitHub stats](https://github-readme-stats-nu-six.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord)
 
 <br>
 
 👨‍💻 **My Top Languages**
 
-![Top Langs](https://github-readme-stats-tomasinodefuego.vercel.app/api/top-langs/?username=tomasinodefuego&exclude_repo=utis,tomasinodefuego,github-readme-stats&layout=compact&count_private=true&theme=nord)
+![Top Langs](https://github-readme-stats-nu-six.vercel.app/api/top-langs/?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&layout=compact&count_private=true&theme=nord)
 
 
 <!--- 
