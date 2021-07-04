@@ -37,10 +37,7 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 <br/>
 
- <code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
-<code><img alt="trello" height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
-<code><img alt="slack" height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
- 
+
 👨🏽‍💻 **Let´s code!**
 
  **_By doing nothing, you become nothing._**
@@ -52,6 +49,11 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 </p>
  
  <!--- 
+
+ <code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
+<code><img alt="trello" height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
+<code><img alt="slack" height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
+ 
 
 👨‍💻 **My Top Languages**
 
