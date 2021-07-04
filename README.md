@@ -27,9 +27,6 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 <code><img alt="photoshop" height="32" src="https://user-images.githubusercontent.com/44181725/124366422-66ad7600-dc15-11eb-9d22-f5a5e89a9a5d.png"></code>
 <code><img alt="unity" height="32" src="https://user-images.githubusercontent.com/44181725/124366643-db34e480-dc16-11eb-8bbe-c5ce8f55aff2.png"></code>
 <code><img alt="maya" height="32" src="https://user-images.githubusercontent.com/44181725/124366644-db34e480-dc16-11eb-8c92-794195d04c10.png"></code>
-<code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
-<code><img alt="trello" height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
-<code><img alt="slack" height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
 </p>
 
 <br>
@@ -40,13 +37,12 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 <br/>
 
+ <code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
+<code><img alt="trello" height="32" src="https://user-images.githubusercontent.com/44181725/124366437-8f357000-dc15-11eb-90fb-c99f23194ad7.png"></code>
+<code><img alt="slack" height="32" src="https://user-images.githubusercontent.com/44181725/124366438-8fce0680-dc15-11eb-9769-a3ef303e8bc8.png"></code>
+ 
 👨🏽‍💻 **Let´s code!**
-```dart
-if(!isProgramming){
- procrastination.stop();
- programming.start();
-}
-```
+
  **_By doing nothing, you become nothing._**
  
 <br/>
