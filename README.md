@@ -42,12 +42,12 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 👨🏽‍💻 **Let´s code!**
 ```dart
-if(procrastination){
+if(!isProgramming){
  procrastination.stop();
  programming.start();
 }
 ```
- **_By doing nothing, nothing, you become nothing._**
+ **_By doing nothing, you become nothing._**
  
 <br/>
 
