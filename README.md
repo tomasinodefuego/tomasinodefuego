@@ -5,9 +5,9 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 </h1>
 
 - 📜 I´m a video game engineer who likes to learn and debug code
-- 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/) & [LSD](https://github.com/LimitlessSoftwareDesign)
+- 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/) & [LSD](https://www.facebook.com/LSD.evs)
 - 🌱 I’m currently learning **Vue**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/"LinkedIn")
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-rodr%C3%ADguez-barrientos-6a494080/)
 - 💬 Ask me about anything, I´m happy to help
 - 💼 Any freelance work? I´m in
 - ⚡ Fun fact: Everybody calls me **Tomás** or **Tomy**
