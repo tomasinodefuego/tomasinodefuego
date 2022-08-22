@@ -33,7 +33,7 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 📈 **My GitHub Stats**
 
-<p align="left"> <img src="https://github-readme-stats-git-master-tomasinodefuego.vercel.app/api?username=cristobalrodbar&exclude_repo=utis,cristobalrodbar,github-readme-stats&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
+<p align="left"> <img src="https://github-readme-stats-git-master-tomasinodefuego.vercel.app/api?username=cristobalrodbar&include_all_commits=true&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
 
 <br/>
 
