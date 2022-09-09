@@ -55,6 +55,9 @@ if(!isProgramming){
 <a href="https://www.buymeacoffee.com/cristobalrodbar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
  
+ 
+ ![](https://komarev.com/ghpvc/?username=cristobalrodbar&style=for-the-badge&color=lightgrey)
+
  <!--- 
 
  <code><img alt="github" height="32" src="https://user-images.githubusercontent.com/44181725/124366418-6614df80-dc15-11eb-91cb-78d4231712f5.png"></code>
