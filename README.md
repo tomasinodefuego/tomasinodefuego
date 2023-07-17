@@ -4,23 +4,24 @@
 Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hand" height="32" style="vertical-align:top; margin:4px">, I´m Cristóbal
 </h1>
 
-- 📜 I´m a videogame engineer who likes to learn and debug code
-- 🔭 I’m currently working at [0Miedo](https://0miedo.com.mx/) & [LSD](https://www.facebook.com/LSD.evs)
+- 📜 I´m a videogame engineer who likes to learn new frameworks and debug code
+- 👨🏻‍💻 I’m currently developing at [0Miedo](https://0miedo.com.mx/) & [LSD](https://www.facebook.com/LSD.evs)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristobalrodbar/)
-- 💬 Ask me about anything, I´m happy to help
 - 💼 Any freelance work? I´m in
 - ⚡ Fun fact: Everybody calls me **Tomás** or **Tomy**
- <!--- - 🌱 I’m currently learning **React**-->
+ <!--- - 🌱 I’m currently learning **React**
+ - 💬 Ask me about anything, I´m happy to help
+ -->
 
 <!--
 <code><img alt="dart" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img alt="vscode" height="32" src="https://user-images.githubusercontent.com/44181725/124366104-d2421400-dc12-11eb-9ca6-65ccc44bd0ad.png"></code>
 <code><img alt="java" height="32" src="https://user-images.githubusercontent.com/44181725/124366420-66ad7600-dc15-11eb-9c2b-564581082ee4.png"></code>
-
+Languages and 
 -->
 <br/>
 
-🧰 **Languages and Tools:**  
+🛠️ **Tools:**  
 <p align="left">
 <code><img alt="flutter" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img alt="androidstudio" height="32" src="https://user-images.githubusercontent.com/44181725/124366642-da9c4e00-dc16-11eb-80d6-2e753deac9e5.png"></code>
@@ -30,9 +31,15 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 <code><img alt="photoshop" height="32" src="https://user-images.githubusercontent.com/44181725/124366422-66ad7600-dc15-11eb-9d22-f5a5e89a9a5d.png"></code>
 <code><img alt="unity" height="32" src="https://user-images.githubusercontent.com/44181725/124366643-db34e480-dc16-11eb-8bbe-c5ce8f55aff2.png"></code>
 <code><img alt="maya" height="32" src="https://user-images.githubusercontent.com/44181725/124366644-db34e480-dc16-11eb-8c92-794195d04c10.png"></code>
+<code><img alt="postman" height="32" src="https://github.com/cristobalrodbar/cristobalrodbar/assets/44181725/c5cf3905-3cdf-4c65-9f3e-ed96c24ffe8c"></code>
 </p>
 
+
+
 <br>
+
+
+
 
 📈 **My GitHub Stats**
 
@@ -44,13 +51,21 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 👨🏽‍💻 **Let´s code!**
 
  ```dart
+if(procrastination){
+   programming.start();
+   procrastination = false;
+}
+```
+
+<!--  setState(() => = false);
 if(!isProgramming){
    procrastination.stop();
    programming.start();
 }
-```
+<code><img alt="mongodb" height="32" src=""></code>
+-->
  
- **_By doing nothing, you become nothing._**
+ **_"By doing nothing, you become nothing."_**
  
 <br/>
 
