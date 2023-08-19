@@ -41,13 +41,17 @@ Languages and
 
 
 
+
+
 📈 **My GitHub Stats**
 
 <p align="left"> <img src="https://github-readme-stats-git-master-tomasinodefuego.vercel.app/api?username=cristobalrodbar&include_all_commits=true&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
 
 <br/>
 
+<a href="http://www.github.com/cristobalrodbar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristobalrodbar&stroke=ffffff&background=2E3440&ring=7490AC&fire=7490AC&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
+<br/>
 👨🏽‍💻 **Let´s code!**
 
  ```dart
