@@ -34,13 +34,7 @@ Languages and
 <code><img alt="postman" height="32" src="https://github.com/cristobalrodbar/cristobalrodbar/assets/44181725/c5cf3905-3cdf-4c65-9f3e-ed96c24ffe8c"></code>
 </p>
 
-
-
 <br>
-
-
-
-
 
 
 📈 **My GitHub Stats**
@@ -48,10 +42,8 @@ Languages and
 <p align="left"> <img src="https://github-readme-stats-git-master-tomasinodefuego.vercel.app/api?username=cristobalrodbar&include_all_commits=true&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
 
 <br/>
-
 <a href="http://www.github.com/cristobalrodbar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristobalrodbar&stroke=ffffff&background=2E3440&ring=7490AC&fire=7490AC&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
-<br/>
 👨🏽‍💻 **Let´s code!**
 
  ```dart
