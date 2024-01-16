@@ -1,7 +1,7 @@
 <p align="left"><img src="https://user-images.githubusercontent.com/44181725/124365919-06b4d080-dc11-11eb-8c73-015f0bb1faeb.jpg" alt="vaporwave" align="center"></p>
 
 <h1 align="center">
-Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hand" height="32" style="vertical-align:top; margin:4px">, I´m Cristóbal
+Hi there 👋🏻 <!---<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hand" height="32" style="vertical-align:top; margin:4px">,--> I´m Cristóbal
 </h1>
 
 - 📜 I´m a videogame engineer who likes to learn new frameworks and debug code
@@ -40,9 +40,9 @@ Languages and
 📈 **My GitHub Stats**
 
 <p align="left"> <img src="https://github-readme-stats-git-master-tomasinodefuego.vercel.app/api?username=cristobalrodbar&include_all_commits=true&show_icons=true&count_private=true&theme=nord" alt="cristobalrodbar" />
-
+<!--
 <br/>
-<a href="http://www.github.com/cristobalrodbar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristobalrodbar&stroke=ffffff&background=2E3440&ring=7490AC&fire=7490AC&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<a href="http://www.github.com/cristobalrodbar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristobalrodbar&stroke=ffffff&background=2E3440&ring=7490AC&fire=7490AC&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>-->
 
 👨🏽‍💻 **Let´s code!**
 
