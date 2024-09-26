@@ -5,12 +5,14 @@ Hi there 👋🏻 <!---<img src="https://camo.githubusercontent.com/e8e7b06ecf58
 </h1>
 
 - 📜 I´m a videogame engineer who likes to learn new frameworks and debug code
-- 👨🏻‍💻 I’m currently developing at [0Miedo](https://0miedo.com.mx/) & [LSD](https://www.facebook.com/LSD.evs)
+- 👨🏻‍💻 I’m currently developing at [Box Collider](https://boxcollider.com.mx/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristobalrodbar/)
 - 💼 Any freelance work? I´m in
 - ⚡ Fun fact: Everybody calls me **Tomás** or **Tomy**
  <!--- - 🌱 I’m currently learning **React**
  - 💬 Ask me about anything, I´m happy to help
+
+  & [LSD](https://www.facebook.com/LSD.evs)
  -->
 
 <!--
